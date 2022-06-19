@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 0 1rem;
+  background: #F8E9DD;
+  overflow: hidden;
+  font-family: 'DM Sans', sans-serif;
+}
